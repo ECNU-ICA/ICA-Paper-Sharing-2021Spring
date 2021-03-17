@@ -32,12 +32,12 @@ Please read abstract/introduction sections before the seminar.
 |  ----   | ----  |   ----   | ----  |   ----   |
 |1|	2021.03.24	|Jie Zhou | Interpretability(暂定)	|	[Materials]()|
 |2|	2021.03.31	| Xingjiao Wu | -	|[Materials]()	|
-|3|	2021.04.07	| Zijing Yang | -	| [Materials]()	| 
+|3|	2021.04.07	| Liye Shi | Recomendation Systems	| [Materials]()	| 
 |4|	2021.04.14	| Dingbang Li | - |	[Materials]()  |  
 |5|	2021.04.21	| Jiabo Ye |	- | [Materials]()	|
 |6|	2021.04.28	| Zhichao Fu |	- |  [Materials]()	|
 |7|	2021.05.05	| Xin Li | -	| [Materials]()  |
 |8|	2021.05.12	| Yuhao Dan | Zero-shot Text Classification	| [Materials]()  |
 |10|	2021.05.19	| Yang Yu |	- |  [Materials](-) |
-|11|	2021.05.26	| LiYe Shi | Recomendation Systems | [Materials](-) | 
+|11|	2021.05.26	| Zijing Yang | - | [Materials](-) | 
 |12|	2021.06.02	| - | -  | [Materials](-) |
