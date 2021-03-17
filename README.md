@@ -38,6 +38,6 @@ Please read abstract/introduction sections before the seminar.
 |6|	2021.04.28	| Zhichao Fu |	- |  [Materials]()	|
 |7|	2021.05.05	| Xin Li | -	| [Materials]()  |
 |8|	2021.05.12	| Yuhao Dan | Zero-shot Text Classification	| [Materials]()  |
-|10|	2021.05.19	| - |	- |  [Materials](-) |
+|10|	2021.05.19	| Yang Yu |	- |  [Materials](-) |
 |11|	2021.05.26	| - | - | [Materials](-) | 
 |12|	2021.06.02	| - | -  | [Materials](-) |
