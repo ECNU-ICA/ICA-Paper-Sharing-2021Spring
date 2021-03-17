@@ -36,7 +36,7 @@ Please read abstract/introduction sections before the seminar.
 |4|	2021.04.14	|Jiabo Ye | - |	[Materials]()  |  
 |5|	2021.04.21	|Dingbang Li |	- | [Materials]()	|
 |6|	2021.04.28	| Xin Li |	- |  [Materials]()	|
-|7|	2021.05.05	| Jun Zhang | -	| [Materials]()  |
+|7|	2021.05.05	| - | -	| [Materials]()  |
 |8|	2021.05.12	| - | -	| [Materials]()  |
 |10|	2021.05.19	| - |	- |  [Materials](-) |
 |11|	2021.05.26	| - | - | [Materials](-) | 
