@@ -1,6 +1,6 @@
 # ICA-Paper-Sharing-2021Spring
 
-- Time: 6:00 pm - 8：00 pm, Tuesday
+- Time: 6:00 pm - 8：00 pm, Wednesday
 
 - Venue: 714
 
