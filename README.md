@@ -31,13 +31,13 @@ Please read abstract/introduction sections before the seminar.
 |Week|	Date	|Speaker|	Paper|	Materials|
 |  ----   | ----  |   ----   | ----  |   ----   |
 |1|	2021.03.24	|Jie Zhou | Interpretability(暂定)	|	[Materials]()|
-|2|	2021.03.31	|Zhichao Fu | -	|[Materials]()	|
-|3|	2021.04.07	|Xingjiao Wu | -	| [Materials]()	| 
+|2|	2021.03.31	| Xingjiao Wu | -	|[Materials]()	|
+|3|	2021.04.07	| Zijing Yang | -	| [Materials]()	| 
 |4|	2021.04.14	|Jiabo Ye | - |	[Materials]()  |  
 |5|	2021.04.21	|Dingbang Li |	- | [Materials]()	|
-|6|	2021.04.28	| Xin Li |	- |  [Materials]()	|
-|7|	2021.05.05	| - | -	| [Materials]()  |
-|8|	2021.05.12	| - | -	| [Materials]()  |
+|6|	2021.04.28	| Zhichao Fu |	- |  [Materials]()	|
+|7|	2021.05.05	| Xin Li | -	| [Materials]()  |
+|8|	2021.05.12	|  | -	| [Materials]()  |
 |10|	2021.05.19	| - |	- |  [Materials](-) |
 |11|	2021.05.26	| - | - | [Materials](-) | 
 |12|	2021.06.02	| - | -  | [Materials](-) |
