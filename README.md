@@ -31,7 +31,7 @@ Please read abstract/introduction sections before the seminar.
 |Week|	Date	|Speaker|	Paper|	Materials|
 |  ----   | ----  |   ----   | ----  |   ----   |
 |1|	2021.03.24	|Jie Zhou | Explaining Machine Learning Predictions: State-of-the-art, Challenges, Opportunities	|	[Materials](https://github.com/ECNU-ICA/ICA-Paper-Sharing-2021Spring/blob/main/week1/explainml-tutorial-neurips20.pdf)|
-|2|	2021.03.31	| Xingjiao Wu | -	|[Materials]()	|
+|2|	2021.03.31	| Xingjiao Wu | Document Layout Analysis	|[Materials](https://github.com/ECNU-ICA/ICA-Paper-Sharing-2021Spring/blob/main/week2/Document%20Layout%20Analysis.pdf)	|
 |3|	2021.04.07	| Liye Shi | Recomendation Systems	| [Materials]()	| 
 |4|	2021.04.14	| Dingbang Li | - |	[Materials]()  |  
 |5|	2021.04.21	| Jiabo Ye |	- | [Materials]()	|
