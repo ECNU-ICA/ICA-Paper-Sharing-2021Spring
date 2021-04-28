@@ -35,7 +35,7 @@ Please read abstract/introduction sections before the seminar.
 |3|	2021.04.07	| Liye Shi | Review-Based Recomendation Systems	| [Materials](https://github.com/ECNU-ICA/ICA-Paper-Sharing-2021Spring/blob/main/week3/review-based%20recommendation%20system.pptx)	| 
 |4|	2021.04.14	| Dingbang Li | Vision Language Navigation |	[Materials](https://github.com/ECNU-ICA/ICA-Paper-Sharing-2021Spring/blob/main/week4/Vision%20Language%20Navigation.pdf)  |  
 |5|	2021.04.21	|  Zijing Yang | Knowledge Reasoning | [Materials](https://github.com/ECNU-ICA/ICA-Paper-Sharing-2021Spring/blob/main/week5/Knowledge%20Reasoning%20Tutorial.pdf)	|
-|6|	2021.04.28	| Zhichao Fu |	- |  [Materials]()	|
+|6|	2021.04.28	| Zhichao Fu |	RGB-D Image Processing |  [Materials](https://github.com/ECNU-ICA/ICA-Paper-Sharing-2021Spring/blob/main/week6/Overview%20of%20RGB-D%20Image%20Processing.pptx)	|
 |7|	2021.05.05	| Xin Li | -	| [Materials]()  |
 |8|	2021.05.12	| Yuhao Dan | Zero-shot Text Classification	| [Materials]()  |
 |10|	2021.05.19	| Yang Yu |	- |  [Materials](-) |
