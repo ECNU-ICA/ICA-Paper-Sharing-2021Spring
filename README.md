@@ -38,6 +38,6 @@ Please read abstract/introduction sections before the seminar.
 |6|	2021.04.28	| Zhichao Fu |	RGB-D Image Processing |  [Materials](https://github.com/ECNU-ICA/ICA-Paper-Sharing-2021Spring/blob/main/week6/Overview%20of%20RGB-D%20Image%20Processing.pptx)	|
 |7|	2021.05.12	| Xin Li | Domain Adaptation in Semantic Segmentation	| [Materials](https://github.com/ECNU-ICA/ICA-Paper-Sharing-2021Spring/blob/main/week7/Domain%20Adaptation%20in%20Semantic%20Segmentation.pdf)  |
 |8|	2021.05.19	| Yuhao Dan | Zero-shot Text Classification	| [Materials](https://github.com/ECNU-ICA/ICA-Paper-Sharing-2021Spring/blob/main/week8/zero-shot-text-classification-danyuhao.pdf)  |
-|10|	2021.05.26	| Qian Zhao |	Long-tailed distributions in Recomendation systems |  [Materials](-) |
-|11|	2021.06.02	| Yang Yu | Commensense Extraction | [Materials](-) | 
+|11|	2021.05.26	| Yang Yu | Commensense Extraction | [Materials](https://github.com/ECNU-ICA/ICA-Paper-Sharing-2021Spring/blob/main/week9/csk_in_the_open_world.pdf) | 
+|10|	2021.06.02	| Qian Zhao |	Long-tailed distributions in Recomendation systems |  [Materials](https://github.com/ECNU-ICA/ICA-Paper-Sharing-2021Spring/blob/main/week10/Long-tailed%20Distributions%20in%20Recommendation%20System.pdf) |
 |12|	2021.06.09	| Jiabo Ye | -  | [Materials](-) |
